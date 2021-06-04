@@ -2,11 +2,19 @@ body {
     background-color: black;
     color: white
 }
+.welcome {
+  float: right;
+  margin: 15%;
+  width: 20%;
+  padding: 10px;
+  margin-bottom: 100px;
+
+}
 .special {
     color: rgb(0, 190, 149);
 }
 .sidebar {
-  width: auto;
+  width: 50%;
   padding: 20px;
   margin-left: 5px;
   border: solid rgb(0, 190, 149);
@@ -17,8 +25,11 @@ body {
   
 }
 .float {
-  margin-left: 15px;
   float: left;
+  margin: 10%;
+  width: 20%;
+  padding: 10px;
+  margin-bottom: 10px;
 }
 .box {
   width: 35%;
