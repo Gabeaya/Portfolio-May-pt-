@@ -6,8 +6,9 @@ body {
     color: rgb(0, 190, 149);
 }
 .sidebar {
-  width: 50%;
+  width: auto;
   padding: 20px;
+  margin-left: 5px;
   border: solid rgb(0, 190, 149);
   border-width: 1px;
   margin-bottom: 10px;
@@ -16,5 +17,15 @@ body {
   
 }
 .float {
+  margin-left: 15px;
+  float: left;
+}
+.box {
+  width: 35%;
+  padding: 20px;
+  border: solid rgb(0, 190, 149);
+  border-width: 1px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
   float: left;
 }
