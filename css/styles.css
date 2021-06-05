@@ -6,9 +6,10 @@ body {
   
   float: right;
   margin: 15%;
+  margin-top: 200px;
   width: 20%;
   padding: 10px;
-  margin-bottom: 71px;
+  margin-bottom: 85px;
 
 }
 .special {
@@ -36,6 +37,9 @@ body {
   border-width: 1px;
   box-sizing: border-box;
   float: left;
+}
+.box h2 {
+  text-align: center;
 }
 .image {
   float: left;
