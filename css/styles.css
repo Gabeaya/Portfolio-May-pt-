@@ -25,7 +25,9 @@ body {
   margin-bottom: 10px;
   box-sizing: border-box;
   float: right;
-  
+}
+.sidebar h2 {
+  text-align: center;
 }
 .box {
   color: black;
