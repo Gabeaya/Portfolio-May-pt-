@@ -17,7 +17,7 @@ _This HTML webpage was created with the intentions of showcasing, through webpag
 * _Now type: git clone https://github.com/Gabeaya/Portfolio-May-pt-.git_
 * _Now enter the directory: cd ind-project(note that the directory and repository names are different)_
 * _From here you can either open it in VS code (enter in terminal: code .) or you can find the directory and open the index.html file to view the webpage._
-* _To simply see the github pages copy this url: Gabeaya.github.io/Portfolio-May-pt-_
+* _To simply see the github pages copy this url: gabeaya.github.io/Portfolio-May-pt-_
 * _Paste the Url above into your browser and enjoy_
 ## Known Bugs
 * _I only ran into one known bug when I debugged using dev tools console. I recieve a: "DevTools failed to load source map://...css/bootstrap.css.map: System error: net::ERR_File_NOT_FOUND. I researched and it may be caused by an old bootstrap version that I am using._
